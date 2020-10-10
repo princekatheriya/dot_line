@@ -1,0 +1,12 @@
+{
+  "name": "prince_dot_line",
+  "displayName": "prince_dot_line",
+  "expo": {
+    "name": "prince_dot_line",
+    "slug": "prince_dot_line",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
